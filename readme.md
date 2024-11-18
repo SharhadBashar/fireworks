@@ -1,4 +1,11 @@
-To run the code, run the following command:
+# Identity Extraction from Documents using Fireworks
+
+First install the requirements:
+```
+pip install -r requirements.txt
+```
+
+To run the code, run the following commands:
 ```
 python main.py -i <image_path> -st <structured>
 ```
